@@ -1,7 +1,7 @@
 streamlit
-llama-index
-langchain
-streamlit-authenticator
+llama-index==0.6.30
+langchain==0.0.318
+streamlit-authenticator==0.3.3
 pydantic
 PyPDF2
 python-docx
