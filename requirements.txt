@@ -2,10 +2,11 @@ streamlit==1.38.0
 llama-index==0.6.30
 langchain==0.0.318
 streamlit-authenticator==0.3.3
-pydantic==2.9.1
+pydantic==2.0.3 
 PyPDF2==3.0.1
 python-docx==1.1.2
 gtts==2.5.3
 langdetect==1.0.9
 deep-translator==1.11.4
 pillow==10.4.0
+typing-extensions==4.5.0
